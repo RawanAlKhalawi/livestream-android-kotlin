@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LiveStream</string>
+    <string name="location_permission">The application needs the location to show you on the maps</string>
+    <string name="permission_not_granted">The app needs the permission for live streaming</string>
+
+</resources>
